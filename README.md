@@ -208,3 +208,10 @@ python index.py
 ```
 
 ---
+
+## **🧪 run your test:**
+
+```bash
+python -m unittest test/parser_test.py
+```
+---
